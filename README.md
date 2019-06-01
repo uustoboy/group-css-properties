@@ -1,6 +1,7 @@
 # Group CSS Properties
 
-> shout to [johnie](https://github.com/johnie);
+> shout to [johnie](https://github.com/johnie);<br/>
+
 > 对[crip-css-properties](https://github.com/johnie/crip-css-properties)的延伸添加了组合简写;
 
 ## Usage
