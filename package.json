@@ -1,0 +1,25 @@
+{
+  "name": "group-css-properties",
+  "version": "1.0.0",
+  "description": "css属性组合",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uustoboy/group-css-properties.git"
+  },
+  "keywords": [
+    "postcss",
+    "crip",
+    "css",
+    "properties"
+  ],
+  "author": "uustoboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uustoboy/group-css-properties/issues"
+  },
+  "homepage": "https://github.com/uustoboy/group-css-properties#readme"
+}
