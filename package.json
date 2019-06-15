@@ -1,6 +1,6 @@
 {
   "name": "group-css-properties",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "css属性组合",
   "main": "index.js",
   "scripts": {

@@ -22,7 +22,6 @@ var CSS = require('group-css-properties');
 
 ## List of all available css abbreviations
 
-* `acc`: accelerator
 * `faflc`: ["family", "font-size", "line-height", "color"],
 * `fcb`: ["font-size", "color", "font-weight"],
 * `flc`: ["font-size", "line-height", "color"],
@@ -45,6 +44,3 @@ var CSS = require('group-css-properties');
 * `whflcb`: ["width", "height", "font-size", "line-height", "color", "font-weight"],
 * `whl`: ["width", "height", "line-height"],
 * `wl`: ["width", "line-height"]
-## Licence
-
-[MIT](licence) © uustoboy
