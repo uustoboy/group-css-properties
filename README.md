@@ -23,10 +23,12 @@ var CSS = require('group-css-properties');
 ## List of all available css abbreviations
 
 * `faflc`: ["family", "font-size", "line-height", "color"],
+* `fc`: ["font-size", "color"],
 * `fcb`: ["font-size", "color", "font-weight"],
 * `flc`: ["font-size", "line-height", "color"],
 * `flcb`: ["font-size", "line-height", "color", "font-weight"],
 * `flh`: ["font-size", "line-height", "height"],
+* `hflh`: ["height", "font-size", "line-height"],
 * `hflc`: ["height", "font-size", "line-height", "color"],
 * `hflcb`: ["height", "font-size", "line-height", "color", "font-weight"],
 * `hl`: ["height", "line-height"],
